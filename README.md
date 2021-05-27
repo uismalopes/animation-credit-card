@@ -2,7 +2,7 @@
 🚀 Componente onde podemos digitar os valores em um formulário e será refletido os dados em uma animação no cartão de crédito.
 
 <h1 align="center">
-  <img alt="Cartão de crédito" title="Cartão de crédito" src="./assets/demo.gif" />
+  <img alt="Cartão de crédito" title="Cartão de crédito" src="./src/assets/demo.gif" />
 </h1>
 
 ### 🛠 Tecnologias usadas

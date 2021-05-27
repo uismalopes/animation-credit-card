@@ -1,5 +1,5 @@
 # ✅ Componente de cartão de crédito
-🚀 Componente onde podemos digitar os valores em um formulário e será refletido os dados em uma animação no cartão de crédito.
+🚀 Componente onde podemos digitar os valores em um formulário e seus dados serão refletidos em uma animação no cartão de crédito.
 
 <h1 align="center">
   <img alt="Cartão de crédito" title="Cartão de crédito" src="./src/assets/demo.gif" />
@@ -7,7 +7,7 @@
 
 ### 🛠 Tecnologias usadas
 
-As seguintes ferramentas foram usadas na contrução do projeto:
+As seguintes ferramentas foram usadas na construção do projeto:
 
 * React
 * TypeScript
@@ -19,7 +19,7 @@ Para rodar o projeto na máquina você precisará do Git e do node.js/yarn. Alé
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/uismalopes/animation-credit-card
+$ git clone https://github.com/uismalopes/animation-credit-card.git
 
 # Acesse a pasta animation-credit-card
 $ cd animation-credit-card

@@ -30,5 +30,5 @@ $ yarn install
 # Execute a aplicação
 $ yarn start
 
-# Abrirá uma nova janela com o projeto rodando
+# Abrirá uma nova janela com o projeto no seu browser
 ```
